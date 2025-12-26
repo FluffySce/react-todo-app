@@ -1,4 +1,4 @@
-#Simple ToDo (Learning Project)
+# Simple ToDo (Learning Project)
 A small project building while I go through FullStackOpen, goal of this project is to practice and internalize implemtation of react concepts I learn in each part.
 
 ## Purpose
